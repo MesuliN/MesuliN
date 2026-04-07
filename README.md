@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mesuli
 
-<!--
-**MesuliN/MesuliN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🚀 Ionic • Angular • Firebase  
+🔥 Building real-world, user-focused applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a web developer focused on building real-world applications and websites using Ionic, Angular, Firebase, and WordPress. I create clean, responsive, and user-friendly websites using tools like VS Code, while continuously improving my skills through practical projects.
+
+---
+
+## 🛠 Tech Stack
+HTML • CSS • JavaScript • TypeScript • C# • Python  
+Angular • Ionic • Firebase • WordPress  
+
+---
+
+## 📌 Projects
+🔹 Sortify – Smart waste management app  
+🔹 Attendify – Digital attendance system  
+
+---
+
+⚡ I build solutions people actually use.
