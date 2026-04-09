@@ -19,7 +19,9 @@ Angular • Ionic • Firebase • WordPress
 
 ## 📌 Projects
 🔹 Sortify – Smart waste management app  
-🔹 Attendify – Digital attendance system  
+🔹 Attendify – Digital attendance system
+🔹 BestBrightness
+
 
 ---
 
