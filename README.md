@@ -18,14 +18,17 @@ Angular • Ionic • Firebase • WordPress
 ---
 
 ## 📌 Projects
-🔹 Sortify – Smart waste management app  
-🔹 Attendify – Digital attendance system
-🔹 BestBrightness
-🔹 Ai Agent building and training
-🔹 Machine Learning
+🔹 Attendify – Digital attendance system - Live
+🔹 Personal Portfolio                    - Live
+🔹 Sortify – Smart waste management app  - Local
+🔹 BestBrightness                        - Local
+🔹 Ai Agent building and training        - Ongoing
+🔹 Machine Learning                      - Ongoing
 
-
+## Currently
+🤖 Exploring AI tooling, chatbot development, and LLM integrations
+📐 Sharpening system design and backend architecture skills
 
 ---
 
-⚡ I build solutions people actually use.
+⚡ I build solutions people can and are using.
