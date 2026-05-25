@@ -32,6 +32,7 @@ Angular • Ionic • Firebase • WordPress
 
 ## Currently
 🤖 Exploring AI tooling, chatbot development, and LLM integrations
+
 📐 Sharpening system design and backend architecture skills
 
 ---
