@@ -12,8 +12,16 @@ I’m a web developer focused on building real-world applications and websites u
 ---
 
 ## 🛠 Tech Stack
-HTML • CSS • JavaScript • TypeScript • C# • Python  
-Angular • Ionic • Firebase • WordPress  
+HTML 
+• CSS 
+• JavaScript 
+• TypeScript 
+• C# 
+• Python  
+• Angular 
+• Ionic 
+• Firebase 
+• WordPress  
 
 ---
 
