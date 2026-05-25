@@ -19,10 +19,15 @@ Angular • Ionic • Firebase • WordPress
 
 ## 📌 Projects
 🔹 Attendify – Digital attendance system - Live
+
 🔹 Personal Portfolio                    - Live
+
 🔹 Sortify – Smart waste management app  - Local
+
 🔹 BestBrightness                        - Local
+
 🔹 Ai Agent building and training        - Ongoing
+
 🔹 Machine Learning                      - Ongoing
 
 ## Currently
