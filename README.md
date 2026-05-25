@@ -21,6 +21,9 @@ Angular • Ionic • Firebase • WordPress
 🔹 Sortify – Smart waste management app  
 🔹 Attendify – Digital attendance system
 🔹 BestBrightness
+🔹 Ai Agent building and training
+🔹 Machine Learning
+
 
 
 ---
