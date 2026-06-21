@@ -1,9 +1,13 @@
 <div align="center">
 
-https//ndulukomesuli.vercel.app
+<!-- Animated Header Banner -->
+[https//ndulukomesuli.vercel.app
+](https://ndulukomesuli.vercel.app/)
 # 👋 Hi, I'm Mesuli Ndluko
 
 **Web Developer | Turning Ideas into Real-World Digital Solutions**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ndulukomesuli.vercel.app-000000?logo=vercel&logoColor=white)](https://ndulukomesuli.vercel.app)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -44,11 +48,11 @@ I love clean code, great user experiences, and continuously pushing my skills th
 **🔹 Attendify** — Digital Attendance System  
 *Live Production App*  
 Built with Ionic + Angular + Firebase  
-→ [View Live](https://your-attendify-link.com) • [Repository →](https://github.com/MesuliN/attendify)
+→ [View Live](https://mut-stars.web.app) • [Repository →](https://github.com/MesuliN/attendify)
 
 **🔹 Personal Portfolio**  
 Modern, responsive portfolio showcasing my work and skills  
-→ [View Live](https://mesulin.github.io) • [Repository →](https://github.com/MesuliN/MesuliN)
+→ [View Live](https://ndulukomesuli.vercel.app) • [Repository →](https://github.com/MesuliN/MesuliN)
 
 **🔹 Sortify** — Smart Waste Management App  
 Helping users manage waste smarter with tracking and insights  
@@ -64,16 +68,10 @@ Helping users manage waste smarter with tracking and insights
 
 ---
 
-### 📊 GitHub Stats
-
-![Mesuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MesuliN&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MesuliN&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ndulukomesuli.vercel.app-000000?logo=vercel&logoColor=white)](https://ndulukomesuli.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 **Always open to interesting opportunities and collaborations!** 🚀
