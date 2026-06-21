@@ -1,48 +1,82 @@
-# 👋 Hi, I'm Mesuli
+<div align="center">
 
-💻 Web Developer  
-🚀 Ionic • Angular • Firebase  
-🔥 Building real-world, user-focused applications  
+![Mesuli Ndluko - Web Developer Banner](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Mesuli+Ndluko+-+Web+Developer&font=playfair)
 
----
+# 👋 Hi, I'm Mesuli Ndluko
 
-## 🚀 About Me
-I’m a web developer focused on building real-world applications and websites using Ionic, Angular, Firebase, and WordPress. I create clean, responsive, and user-friendly websites using tools like VS Code, while continuously improving my skills through practical projects.
+**Web Developer | Turning Ideas into Real-World Digital Solutions**
 
----
-
-## 🛠 Tech Stack
-HTML 
-• CSS 
-• JavaScript 
-• TypeScript 
-• C# 
-• Python  
-• Angular 
-• Ionic 
-• Firebase 
-• WordPress  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
-## 📌 Projects
-🔹 Attendify – Digital attendance system - Live
+### 🚀 About Me
 
-🔹 Personal Portfolio                    - Live
+I'm a passionate web developer specializing in building **clean, responsive, and user-focused applications**. With expertise in Ionic, Angular, and Firebase, I create real-world solutions that people actually use — from digital attendance systems to smart waste management tools.
 
-🔹 Sortify – Smart waste management app  - Local
-
-🔹 BestBrightness                        - Local
-
-🔹 Ai Agent building and training        - Ongoing
-
-🔹 Machine Learning                      - Ongoing
-
-## Currently
-🤖 Exploring AI tooling, chatbot development, and LLM integrations
-
-📐 Sharpening system design and backend architecture skills
+I love clean code, great user experiences, and continuously pushing my skills through hands-on projects.
 
 ---
 
-⚡ I build solutions people can and are using.
+### 🛠️ Tech Stack
+
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+
+**Backend & Tools**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+**🔹 Attendify** — Digital Attendance System  
+*Live Production App*  
+Built with Ionic + Angular + Firebase  
+→ [View Live](https://your-attendify-link.com) • [Repository →](https://github.com/MesuliN/attendify)
+
+**🔹 Personal Portfolio**  
+Modern, responsive portfolio showcasing my work and skills  
+→ [View Live](https://mesulin.github.io) • [Repository →](https://github.com/MesuliN/MesuliN)
+
+**🔹 Sortify** — Smart Waste Management App  
+Helping users manage waste smarter with tracking and insights  
+→ [Repository →](https://github.com/MesuliN/sortify)
+
+---
+
+### 🌱 Currently Exploring
+
+- 🤖 **AI & LLM Integrations** – Building chatbots and intelligent agents
+- 📡 **System Design & Backend Architecture**
+- 🧠 Machine Learning fundamentals
+
+---
+
+### 📊 GitHub Stats
+
+![Mesuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MesuliN&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MesuliN&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+**Always open to interesting opportunities and collaborations!** 🚀
+
+</div>
