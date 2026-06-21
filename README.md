@@ -1,7 +1,6 @@
 <div align="center">
 
-![Mesuli Ndluko - Web Developer Banner](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Mesuli+Ndluko+-+Web+Developer&font=playfair)
-
+https//ndulukomesuli.vercel.app
 # 👋 Hi, I'm Mesuli Ndluko
 
 **Web Developer | Turning Ideas into Real-World Digital Solutions**
